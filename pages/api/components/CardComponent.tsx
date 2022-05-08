@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import ProfilePicture from '../../public/profile-picture.jpg';
+import ProfilePicture from '../../../public/profile-picture.jpg'
 import ContentComponent from "./ContentComponent";
 
 
